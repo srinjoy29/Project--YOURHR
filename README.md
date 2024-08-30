@@ -30,7 +30,7 @@ To set up a local version of this application, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone 
+   git clone https://github.com/srinjoy29/Project--YOURHR.git
 
 2. **Install the required NPM packages:**
 
@@ -63,6 +63,8 @@ COOKIE_EXPIRE=
 ## Contact ##
 For any queries or feedback, feel free to reach out:
 
-Your Name - 
+Your Github - https://github.com/srinjoy29
 
-Project Link: 
+Project Link: https://yourhr-five.vercel.app/
+
+Portfolio : https://srinjoy.online
